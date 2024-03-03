@@ -21,6 +21,13 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+## Installation
+
+1. Ensure you have Node.js installed on your system. You can download it from [here](https://nodejs.org/).
+2. Clone this repository to your local machine.
+3. Navigate to the project directory and run the following command to install dependencies:   
+   npm install
+   npm start
 
 ### Features Implemented
 
